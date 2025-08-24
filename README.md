@@ -4,9 +4,6 @@ This repository serves as a comprehensive portfolio, showcasing the projects, as
 ## About the Certification
 This certification program provided a robust foundation in the end-to-end data analytics process, from data collection and cleaning to visualization and reporting. The curriculum covered a wide range of topics and tools essential for a data professional.
 
-## Projects & Portfolio
-Here are some of the key projects I completed, demonstrating my practical application of the skills learned. Each folder contains the project files, including code, datasets, and a detailed project brief.
-
 ## Key Skills & Tools
 The following is a list of the core skills and technologies I developed and utilized throughout the course:
 
